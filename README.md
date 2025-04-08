@@ -1,9 +1,8 @@
 
-Built by https://www.blackbox.ai
+Built by Hasan
 
 ---
 
-```markdown
 # Java-based Full-Stack Web Application
 
 ## Project Overview
